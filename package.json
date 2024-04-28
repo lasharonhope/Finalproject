@@ -1,7 +1,7 @@
 {
   "homepage": "https://lasharonhope.github.io/finalproject",
   "name": "final-project",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
